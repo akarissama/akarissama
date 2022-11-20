@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Akari
 - 👀 I’m interested in cosplays, games & programming
+- 🔭 I’m currently working on my discord bots
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me https://linktr.ee/akarisama
 
